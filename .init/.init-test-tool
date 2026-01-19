@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/smart-appointment-scheduler-200735/appointment_backend"
+}
